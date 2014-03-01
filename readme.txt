@@ -1,3 +1,3 @@
-another change
-This is a change to readm.
-this is a readme.
+This is the primary repository for Hehome98034. 
+
+The code is primarily written in c#, Javascript, ruby, python and node.js.
