@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CC7B-F7FD
+
+ Directory of C:\gitTest
+
+03/01/2014  10:13 PM    <DIR>          .
+03/01/2014  10:13 PM    <DIR>          ..
+03/01/2014  09:58 AM    <DIR>          AllImportantProjects
+02/26/2014  10:32 PM                20 anotherTest.txt
+03/01/2014  10:05 AM               126 readme.txt
+03/01/2014  09:58 PM             1,619 temp
+03/01/2014  10:13 PM                 0 testStage.txt
+               4 File(s)          1,765 bytes
+               3 Dir(s)  49,935,962,112 bytes free
